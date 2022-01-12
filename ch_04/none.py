@@ -5,4 +5,4 @@
 def function():
     pass
 
-print(function())
+print(function())n
